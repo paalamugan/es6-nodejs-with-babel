@@ -5,6 +5,12 @@ node - v14.8.0
 npm - 6.14.7
 ```
 
+- If node version doesn't exsit automatically Installed specific node version via nvm
+
+```
+nvm use
+```
+
 ```shell
 npm install
 ```
