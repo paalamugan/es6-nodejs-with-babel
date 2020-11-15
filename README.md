@@ -11,6 +11,8 @@ npm - 6.14.7
 nvm use
 ```
 
+- Install node_modules dependencies
+
 ```shell
 npm install
 ```
